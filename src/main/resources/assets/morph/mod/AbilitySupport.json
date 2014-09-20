@@ -457,6 +457,9 @@
   "danger.orespawn.ThePrince": [
     "fly|true"
   ],
+  "danger.orespawn.ThePrincess": [
+  	"fly|true"
+  ],
   "danger.orespawn.Urchin": [
     "swim|true",
     "hostile"
