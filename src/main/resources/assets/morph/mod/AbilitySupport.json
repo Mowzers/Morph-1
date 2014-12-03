@@ -1,4 +1,8 @@
 {
+ "src.thKaguyaMod.entity.living.EntityCirno" : [
+    "fly|true",
+    "hostile"
+]	
   "am2.bosses.EntityAirGuardian": [
     "hostile"
   ],
