@@ -1,5 +1,5 @@
 {
- "src.thKaguyaMod.entity.living.EntityCirno" : [
+ "src.thKaguyaMod.entity.living.EntityCirno": [
     "fly|true",
     "hostile"
 ]	
